@@ -25,10 +25,11 @@
 
 ## Screenshot
 
+<img width="1437" alt="Screen Shot 2022-06-11 at 11 39 45 AM" src="https://user-images.githubusercontent.com/87781987/173194792-603d9de6-6c92-4547-9a23-db02b635e2be.png">
 
 
 <h3>Website</h3>
-<p>https://github.com/Titoxox97</p>
+<p>https://titoxox97.github.io/Password_Generator/</p>
 
 <h3>Author</h3>
 <p>Con gusto 🐙</p>
