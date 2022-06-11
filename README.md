@@ -1,6 +1,6 @@
-# Challenge-3-HW
+# PW Generator
 
-<h1>Objective</h1>
+<h1>Summary</h1>
 <p>Created a random password generator using Javascript.<p>
 
 <h2>Process</h2>
@@ -16,6 +16,16 @@
 <li>For loop to iterate over the inputted length of the password from the options object, selecting random indices from the array of possible characters and concatenating those characters into the result variable</li>
 <li>Add the event listener in order to generate a button</li>
 </p>
+
+## Technologies
+
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+
+## Screenshot
+
+
 
 <h3>Website</h3>
 <p>https://github.com/Titoxox97</p>
