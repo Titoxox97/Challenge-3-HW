@@ -8,7 +8,7 @@ var upperChar = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"
   
   
   
-  // Function to ask user for password options
+  // Function to ask user for characters they would like to includee in their password and the length they would like it to be
   function getPswOpt() {
     var length = parseInt(
       prompt("How long would you like your password to be? (Must be between 8 and 128 characters)")
